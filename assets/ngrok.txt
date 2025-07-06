@@ -1,1 +1,0 @@
-/Users/vietvtc4/Documents/ngrok/ngrok http 3000
