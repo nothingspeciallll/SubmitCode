@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Farcoins",
+    "iconUrl": "https://farcoins.xyz/logo.png",
+    "homeUrl": "https://farcoins.xyz",
+    "splashImageUrl": "https://farcoins.xyz/splash.png",
+    "splashBackgroundColor": "#020a1f",
+    "imageUrl": "https://farcoins.xyz/Banner.png",
+    "buttonTitle": "Coin Your Profile", 
+    "subtitle": "Farcoins",
+    "description": "Coin Your Profile Claim Airdrop Compete on the leaderboard", 
+    "webhookUrl": "https://farcoins.xyz/api/webhook",
+    "screenshotUrls": [
+      "https://farcoins.xyz/Banner.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["farcoins", "Farcaster", "Social", "GMonchain"],
+    "heroImageUrl": "https://farcoins.xyz/Banner.png",
+    "tagline": "Coin Your Profile",
+    "ogTitle": "Farcoins", 
+    "ogDescription": "Coin Your Profile Claim Airdrop Compete on the leaderboard",
+    "requiredChains": ["eip155:8453"],
+    "ogImageUrl": "https://farcoins.xyz/Banner.png"
+  }
+}
