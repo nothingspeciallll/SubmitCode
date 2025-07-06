@@ -407,32 +407,6 @@ pnpm run migrate
 - **Input Validation**: Comprehensive validation for all user inputs
 - **Slippage Protection**: Trading safeguards against MEV and price manipulation
 
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how to get started:
-
-### **Development Workflow**
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### **Code Standards**
-- **TypeScript**: Strict type checking enabled
-- **ESLint**: Code linting and formatting
-- **Component Patterns**: Use functional components with hooks
-- **File Naming**: kebab-case for files, PascalCase for components
-- **Testing**: Write tests for critical functionality
-
-### **Architecture Guidelines**
-- **5-Platform Integration**: Maintain consistency across Zora, Neynar, Farcaster, Supabase, and Alchemy
-- **Error Handling**: Implement graceful fallbacks for API failures
-- **Performance**: Utilize caching strategies for optimal user experience
-- **Security**: Follow Web3 best practices for wallet and contract interactions
-
-
 ## 🌐 Links & Resources
 
 - **Website**: [farcoins.xyz](https://farcoins.xyz)
